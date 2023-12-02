@@ -6,7 +6,7 @@ Welcome! This repository contains resources and materials that I used for learni
 
 - [Theory Folder](https://github.com/ialexmp/Machine-Learning/tree/master/Theory)
 - [Lab Folder](https://github.com/ialexmp/Machine-Learning/tree/master/Labs)
-- [Project Folder]([#project-folder](https://github.com/ialexmp/Machine-Learning/tree/master/Projects))
+- [Project Folder](https://github.com/ialexmp/Machine-Learning/tree/master/Projects)
 
 ## Theory Folder
 
